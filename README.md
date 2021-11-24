@@ -1,7 +1,7 @@
 #
 
 <div>
-<img src="https://mdnhs-store.web.app/static/media/logo.53d9efe2.png" width="60px" height="60px" alt="Heart Care"/>
+<img src="https://mdnhs-store.web.app/static/media/logo.53d9efe2.png" width="160px" height="60px" alt="Heart Care"/>
 <h1>https://mdnhs-store.web.app</h1>
 </div>
 
