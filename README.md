@@ -16,9 +16,9 @@ What I Using For Creating This Site
 - Heroku
 
 Description:
-• Created a single-page full-stack website using CRUD opera�on.
-• Admin panel secured by the protected route.
-• Admin can manage all products, orders and can add a new product.
+- Created a single-page full-stack website using CRUD operation.
+- Admin panel secured by the protected route.
+- Admin can manage all products, orders and can add a new product.
 
 My Deploy Platform
 
