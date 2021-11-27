@@ -16,9 +16,9 @@ What I Using For Creating This Site
 - Heroku
 
 Description:
-MDNHS Store is the largest UAV dealer
-in the Bangladesh and we are DJI's largest and most experienced authorized
-service center in the Bangladesh.
+• Created a single-page full-stack website using CRUD opera�on.
+• Admin panel secured by the protected route.
+• Admin can manage all products, orders and can add a new product.
 
 My Deploy Platform
 
